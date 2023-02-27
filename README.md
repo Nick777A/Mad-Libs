@@ -1,2 +1,0 @@
-# Mad-Libs
-TUMO labs
